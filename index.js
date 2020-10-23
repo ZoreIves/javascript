@@ -1,3 +1,5 @@
 var message = "Hello Javascript"
+let msg1 = "Hallo";
+const msg2 = "Javascript"
 
-console.log(message)
+console.log(msg1)
