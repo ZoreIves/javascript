@@ -22,7 +22,6 @@ function Nilai(){
         default:
             console.log("Kurang");
     }
-
 }
 
 console.log(Nilai());
