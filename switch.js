@@ -6,7 +6,7 @@ function Nilai(){
         case 100:
             console.log("Sempurna");
             break;
-    
+     
         case 90:
             console.log("Sangat Bagus");
             break;
