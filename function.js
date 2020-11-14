@@ -10,7 +10,7 @@ jalanSatu()
 jalanDua()
 
 
-const jalanTiga = ()=>{
+function jalanTiga() {
     console.log("tiga");
 }
 
